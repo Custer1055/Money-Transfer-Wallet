@@ -1,0 +1,5 @@
+{
+    "require": {
+        "custer/clogger": "dev-master"
+    }
+}
