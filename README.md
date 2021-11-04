@@ -1,2 +1,2 @@
-# Ubits-Project
+# OnlineWallet-Project
 The project i have made for wallet transacting digitally
